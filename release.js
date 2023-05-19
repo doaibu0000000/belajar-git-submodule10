@@ -1,0 +1,3 @@
+function sayGet(){
+    return true;
+}
